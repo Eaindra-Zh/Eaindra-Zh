@@ -4,9 +4,9 @@ I am Eaindra, a recent graduate of University College Utrecht in Linguistics and
 
 ✨ Aspiring computational linguist and data analysis ✨ 
 
-😎 Passionate about learning multiple programming language 😎
+😎 Passionate about learning multiple programming languages 😎
 
-- 🔭 Currently working on writing my own portfolio website and analysis reports using Tableau
+- 🔭 Currently working on writing my own portfolio website
 - 🌱 Currently learning SQL, Tableau, Dutch, CSS, and Javascript
 - 💪 Experienced with PowerBI, Excel, Python, and RStudio
 - 🤔 Undertook various projects, from both professional and academic settings 
