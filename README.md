@@ -14,4 +14,4 @@ I am Eaindra, a recent graduate of University College Utrecht in Linguistics and
 - 🍃 A free spirit thorough and thorough. 
 - 🍔 Hobbies: cooking, playing games (hmu on my discord q_btw#7804 if you play Genshin Impact or Honkai Star-Rail), crocheting, badminton, and biking
 
-PS. Profile picture is when I am testing text-to-AI drawing
+PS. The profile picture is when I am testing text-to-AI drawing with "Eaindra in greenery"
