@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Eaindra-Zh/Eaindra-Zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Eaindra, a recent graduate of University College Utrecht in Linguistics and Mathematics. 
 
-Here are some ideas to get you started:
+✨ Aspiring computational linguist and data analysis ✨ 
+😎 Passionate about learning multiple programming language 😎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on writing my own portfolio website and analysis reports using Tableau
+- 🌱 Currently learning SQL, Tableau, Dutch, CSS, and Javascript
+- 💪 Experienced with PowerBI, Excel, Python, and RStudio
+- 🤔 Undertook various projects, from both professional and academic settings 
+- 📫 You can reach me via email: e.a.zhuang@gmail.com
+- 🍃 A free-spirit thorough and thorough. 
+- 🍔 Hobbies: cooking, playing games (hmu on my discord q_btw if you play Genshin Impact or Honkai Star-Rail), crocheting, badminton, and biking 
