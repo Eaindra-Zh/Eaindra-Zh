@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Eaindra, a recent graduate of University College Utrecht in Linguistics and Mathematics. 
+I am Eaindra, a graduate of University College Utrecht in Linguistics and Mathematics. 
 
 ✨ Aspiring computational linguist and data analyst ✨ 
 
